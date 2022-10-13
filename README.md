@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div>
+<div style="background-color:white;">
 <h1 align="center">Hi 👋, I'm Selçuk</h1>
 <h3 align="center">A passionate frontend developer from Mersin/Türkiye</h3>
 
