@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Mersin/Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smtuncer&label=Profile%20views&color=0e75b6&style=flat" alt="smtuncer" /> </p>
-- 👨‍💻  <a href="https://selcukmehmettuncer.com/">My personal website</a>
+👨‍💻  <a href="https://selcukmehmettuncer.com/">My personal website</a>
 </p style="background-color:white;">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,7 +13,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smtuncer&show_icons=true&locale=en&layout=compact" alt="smtuncer" /></p>
 <br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smtuncer&show_icons=true&locale=en" alt="smtuncer" /></p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/selçuk-mehmet-tunçer-92b968203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selçuk-mehmet-tunçer-92b968203" height="30" width="40" /></a>
