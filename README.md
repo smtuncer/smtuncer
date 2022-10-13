@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Mersin/Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smtuncer&label=Profile%20views&color=0e75b6&style=flat" alt="smtuncer" /> </p>
-- 👨‍💻 My personal website [https://selcukmehmettuncer.com/](https://selcukmehmettuncer.com/)
+- 👨‍💻 My personal website [https://selcukmehmettuncer.com/]
 </p style="background-color:white;">
 
 <h3 align="left">Languages and Tools:</h3>
