@@ -19,7 +19,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>     </p>
 
 
-<br><br><br><br><br><br><br>
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/selçuk-mehmet-tunçer-92b968203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selçuk-mehmet-tunçer-92b968203" height="30" width="40" /></a>
