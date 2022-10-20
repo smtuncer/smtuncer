@@ -4,7 +4,9 @@
 <h3 align="center">A passionate backend developer from Mersin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smtuncer&label=Profile%20views&color=0e75b6&style=flat" alt="smtuncer" /> </p>
-👨‍💻  <a href="https://selcukmehmettuncer.com/" target="_blank" >My personal website</a>
+👨‍💻  <a href="https://selcukmehmettuncer.com/" target="_blank" >My personal website</a><br>
+<img src="https://komarev.com/ghpvc/?username=smtuncer&label=Profile%20views&color=0e75b6&style=flat" alt="smtuncer" /> </p>
+👨‍💻  <a href="https://www.linkedin.com/in/sel%C3%A7uk-mehmet-tun%C3%A7er-92b968203/" target="_blank" >Linkedin</a>
 </p style="background-color:white;">
 
 <h3 align="left">Languages and Tools:</h3>
