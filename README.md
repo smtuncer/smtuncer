@@ -19,6 +19,33 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
+<h3 align="left">🚀 Selected Projects</h3>
+
+<ul>
+  <li><a href="https://tolgayapiinsaat.com/" target="_blank">Tolga Yapı İnşaat</a> – Kurumsal web sitesi</li>
+  <li><a href="http://dailycruising.com.tr" target="_blank">Daily Cruising</a> – Tekne turu & rezervasyon platformu</li>
+  <li><a href="https://turkcam.net/" target="_blank">Türkcam</a> – Endüstriyel cam çözümleri</li>
+  <li><a href="https://3dprinterdestek.com/" target="_blank">3D Printer Destek</a> – Forum & teknik destek platformu</li>
+  <li><a href="https://kocakhukukdanismanlik.com/" target="_blank">Koçak Hukuk Danışmanlık</a> – Hukuk bürosu web sitesi</li>
+  <li><a href="https://avyasarkocak.com/" target="_blank">Av. Yaşar Koçak</a> – Kişisel avukat sitesi</li>
+  <li><a href="https://ankarakocakhukuk.com/" target="_blank">Ankara Koçak Hukuk</a> – Yerel SEO odaklı hukuk sitesi</li>
+  <li><a href="https://ankaracezaavukati.com/" target="_blank">Ankara Ceza Avukatı</a> – Niş hukuk SEO projesi</li>
+  <li><a href="https://theoneteamrealestate.com.tr/" target="_blank">The One Team Real Estate</a> – Gayrimenkul tanıtım sitesi</li>
+  <li><a href="https://arsaeviemlak.com/" target="_blank">Arsa & Ev Emlak</a> – Emlak platformu</li>
+  <li><a href="https://arsanıal.com/" target="_blank">Arsanı Al</a> – Arsa satış platformu</li>
+  <li><a href="https://arabanıal.com/" target="_blank">Arabanı Al</a> – Araç alım-satım sitesi</li>
+  <li><a href="https://packetin.com" target="_blank">Packetin</a> – Dijital çözüm platformu</li>
+  <li><a href="https://deepthink.com.tr" target="_blank">DeepThink</a> – Kurumsal teknoloji sitesi</li>
+  <li><a href="https://lifealuminyum.com" target="_blank">Life Alüminyum</a> – Üretim & sanayi sitesi</li>
+  <li><a href="https://luxda.net/" target="_blank">Luxda</a> – Kurumsal web projesi</li>
+  <li><a href="https://freelade.com/" target="_blank">Freelade</a> – Freelance & yazılım çözümleri</li>
+  <li><a href="https://pekeryeminlitercume.com" target="_blank">Peker Yeminli Tercüme</a> – Tercüme ofisi sitesi</li>
+  <li><a href="https://netdilkurslari.com" target="_blank">Net Dil Kursları</a> – Eğitim kurumu sitesi</li>
+  <li><a href="https://bagcilaramerikancakultur.com/" target="_blank">Bağcılar Amerikan Kültür</a> – Dil kursu sitesi</li>
+  <li><a href="https://berlindanismanlik.com" target="_blank">Berlin Danışmanlık</a> – Danışmanlık sitesi</li>
+  <li><a href="https://tokayakademi.com" target="_blank">Tokay Akademi</a> – Eğitim & kurs platformu</li>
+  <li><a href="https://momert.com.tr/" target="_blank">Momert</a> – Kurumsal web sitesi</li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
