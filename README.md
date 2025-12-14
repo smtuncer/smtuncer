@@ -34,6 +34,7 @@
   <li><a href="https://arsaeviemlak.com/" target="_blank">Arsa & Ev Emlak</a> – Real estate showcase platform</li>
   <li><a href="https://momert.com.tr/" target="_blank">Momert</a> – Product showcase platform</li>
   <li><a href="https://arsanıal.com/" target="_blank">Arsanı Al</a> – Land listing platform</li>
+  <li><a href="https://ozmengida.net/" target="_blank">Özmen Gıda</a> – Land listing platform</li>
   <li><a href="https://arabanıal.com/" target="_blank">Arabanı Al</a> – Vehicle listing platform</li>
   <li><a href="https://lifealuminyum.com" target="_blank">Life Alüminyum</a> – Product showcase platform</li>
   <li><a href="https://inoksmutfakal.com/" target="_blank">İnoks Mutfak Al</a> – Product showcase platform</li>
