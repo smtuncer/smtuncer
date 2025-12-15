@@ -19,7 +19,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
-<h3 align="left">🚀 Selected Projects</h3>
+<h3 align="left">🚀 Some Projects</h3>
 
 <ul>
   <li><a href="https://3dprinterdestek.com/" target="_blank">3D Printer Destek</a> – Forum site & technical support platform</li>
